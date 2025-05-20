@@ -1,5 +1,4 @@
-﻿# Grand-Theft-Auto-Vice-City-Android
-# Full map unlocked.
+﻿# Grand-Theft-Auto-Vice-City-Android Full map unlocked.
 
 ### Installation Instructions
 
